@@ -1,2 +1,2 @@
-#python tk tutorial
+# python tk tutorial
 Мой код сделанный по туториалам, просто чтобы сохранить
