@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "imtcalc-tut"
+version = "0.1.0"
+description = ""
+authors = ["Valldimus <valldemar2017@gmail.com>"]
+readme = "README.md"
+packages = [{include = "imtcalc_tut"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
